@@ -1,0 +1,9 @@
+C:\Users\david\Desktop\Game1\XMLData\bin\Debug\XMLData.dll
+C:\Users\david\Desktop\Game1\XMLData\bin\Debug\XMLData.pdb
+C:\Users\david\Desktop\Game1\XMLData\bin\Debug\MonoGame.Framework.dll
+C:\Users\david\Desktop\Game1\XMLData\bin\Debug\MonoGame.Framework.xml
+C:\Users\david\Desktop\Game1\XMLData\obj\Debug\XMLData.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Game1\XMLData\obj\Debug\XMLData.csproj.CopyComplete
+C:\Users\david\Desktop\Game1\XMLData\obj\Debug\XMLData.dll
+C:\Users\david\Desktop\Game1\XMLData\obj\Debug\XMLData.pdb
+C:\Users\david\Desktop\Game1\XMLData\obj\Debug\XMLData.csprojAssemblyReference.cache

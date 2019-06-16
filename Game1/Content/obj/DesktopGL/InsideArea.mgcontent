@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/david/Desktop/Game1/Game1/Content/InsideArea.xml</SourceFile>
+  <SourceTime>2018-10-12T15:15:08.4295743+02:00</SourceTime>
+  <DestFile>C:/Users/david/Desktop/Game1/Game1/Content/bin/DesktopGL/InsideArea.xnb</DestFile>
+  <DestTime>2018-10-12T15:49:31.3226795+02:00</DestTime>
+  <Importer>XmlImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

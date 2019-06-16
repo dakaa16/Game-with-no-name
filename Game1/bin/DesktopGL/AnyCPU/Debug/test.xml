@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:XMLData="XMLData">
+  <Asset Type="XMLData:xmlTest">
+    <spawnPosition>Below</spawnPosition>
+  </Asset>
+</XnaContent>

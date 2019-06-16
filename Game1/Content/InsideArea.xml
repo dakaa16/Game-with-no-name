@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:XMLData="XMLData">
+  <Asset Type="XMLData:Area">
+    <backGroundName>InsideBackTest</backGroundName>
+    <Size>160 112</Size>
+    <Blocks>
+      <Item>
+        <leftExposed>true</leftExposed>
+        <rightExposed>true</rightExposed>
+        <topExposed>true</topExposed>
+        <bottomExposed>false</bottomExposed>
+        <tilePosition>2 2</tilePosition>
+        <tileDimensions>1 1</tileDimensions>
+        <index>0</index>
+        <textureIndex>0</textureIndex>
+        <rows>1</rows>
+        <columns>1</columns>
+        <animate>false</animate>
+        <checkText>This is the first type of block implemented in the game</checkText>
+        <interactions>
+          <Item>Check</Item>
+        </interactions>
+      </Item>
+      <Item>
+        <leftExposed>false</leftExposed>
+        <rightExposed>true</rightExposed>
+        <topExposed>true</topExposed>
+        <bottomExposed>true</bottomExposed>
+        <tilePosition>3 3</tilePosition>
+        <tileDimensions>1 1</tileDimensions>
+        <index>0</index>
+        <textureIndex>0</textureIndex>
+        <rows>1</rows>
+        <columns>1</columns>
+        <animate>false</animate>
+        <checkText>This is the first type of block implemented in the game</checkText>
+        <interactions>
+          <Item>Check</Item>
+        </interactions>
+      </Item>
+      <Item>
+        <leftExposed>true</leftExposed>
+        <rightExposed>false</rightExposed>
+        <topExposed>false</topExposed>
+        <bottomExposed>false</bottomExposed>
+        <tilePosition>2 3</tilePosition>
+        <tileDimensions>1 1</tileDimensions>
+        <index>0</index>
+        <textureIndex>0</textureIndex>
+        <rows>1</rows>
+        <columns>1</columns>
+        <animate>false</animate>
+        <checkText>This is the first type of block implemented in the game</checkText>
+        <interactions>
+          <Item>Check</Item>
+        </interactions>
+      </Item>
+      <Item>
+        <leftExposed>true</leftExposed>
+        <rightExposed>true</rightExposed>
+        <topExposed>false</topExposed>
+        <bottomExposed>true</bottomExposed>
+        <tilePosition>2 4</tilePosition>
+        <tileDimensions>1 1</tileDimensions>
+        <index>0</index>
+        <textureIndex>1</textureIndex>
+        <rows>1</rows>
+        <columns>1</columns>
+        <animate>false</animate>
+        <checkText>This is the block that represented the player, during the initial testing of the game engine</checkText>
+        <interactions>
+          <Item>Check</Item>
+        </interactions>
+      </Item>
+    </Blocks>
+    <Buildings>
+    </Buildings>
+    <CollisionRects>
+      <Item>
+        <LeftExposed>true</LeftExposed>
+        <RightExposed>true</RightExposed>
+        <TopExposed>true</TopExposed>
+        <BottomExposed>true</BottomExposed>
+        <Rect>0 -16 160 16</Rect>
+        <Position>0 -16</Position>
+        <Dimensions>160 16</Dimensions>
+      </Item>
+      <Item>
+        <LeftExposed>true</LeftExposed>
+        <RightExposed>true</RightExposed>
+        <TopExposed>true</TopExposed>
+        <BottomExposed>true</BottomExposed>
+        <Rect>-16 0 16 112</Rect>
+        <Position>-16 0</Position>
+        <Dimensions>16 112</Dimensions>
+      </Item>
+    </CollisionRects>
+    <AlphaRects />
+    <TransitionRects>
+      <Item>
+        <LeftExposed>true</LeftExposed>
+        <RightExposed>true</RightExposed>
+        <TopExposed>true</TopExposed>
+        <BottomExposed>true</BottomExposed>
+        <Rect>59 100 42 12</Rect>
+        <Position>59 100</Position>
+        <Dimensions>42 12</Dimensions>
+        <AreaName>AreaTest</AreaName>
+        <ID>A1</ID>
+        <spawnPosition>Above</spawnPosition>
+      </Item>
+    </TransitionRects>
+    <Textures />
+    <TextureNames>
+      <Item>NPC</Item>
+      <Item>character</Item>
+      <Item>animationTest</Item>
+    </TextureNames>
+  </Asset>
+</XnaContent>

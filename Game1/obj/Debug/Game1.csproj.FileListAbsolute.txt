@@ -1,0 +1,63 @@
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Game1.exe
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Game1.pdb
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\Game1.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\Game1.exe
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\Game1.pdb
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\character.xnb
+c:\users\david\documents\visual studio 2017\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\NPC.xnb
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\animationTest.xnb
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\AreaTest.xnb
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\BackGroundTest.xnb
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\character.xnb
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\frameDarkEdge.xnb
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\frameEdge.xnb
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\HouseTest.xnb
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\InsideArea.xnb
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\InsideBackTest.xnb
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\InteractionFrame.xnb
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\NPC.xnb
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\TestFont.xnb
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Game1.exe
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Game1.pdb
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.Content.Pipeline.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\XMLData.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\CppNet.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Nvidia.TextureTools.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\SharpFont.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\SharpDX.D3DCompiler.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\AssimpNet.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\FreeImageNET.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\ATI.TextureConverter.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\PVRTexLibNET.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\SharpDX.dll
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\XMLData.pdb
+C:\Users\david\Desktop\Game1\Game1\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\david\Desktop\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Game1\Game1\obj\Debug\Game1.csproj.CopyComplete
+C:\Users\david\Desktop\Game1\Game1\obj\Debug\Game1.exe
+C:\Users\david\Desktop\Game1\Game1\obj\Debug\Game1.pdb
+C:\Users\david\Desktop\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\playerFocus.xnb

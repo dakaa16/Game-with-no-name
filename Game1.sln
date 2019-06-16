@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game1", "Game1\Game1.csproj", "{CD94557E-FCAE-4DE1-9F41-D6547C1938F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLData", "XMLData\XMLData.csproj", "{90620DB4-FD8E-4DC5-8862-F75231475243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD94557E-FCAE-4DE1-9F41-D6547C1938F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD94557E-FCAE-4DE1-9F41-D6547C1938F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD94557E-FCAE-4DE1-9F41-D6547C1938F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD94557E-FCAE-4DE1-9F41-D6547C1938F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90620DB4-FD8E-4DC5-8862-F75231475243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90620DB4-FD8E-4DC5-8862-F75231475243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90620DB4-FD8E-4DC5-8862-F75231475243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90620DB4-FD8E-4DC5-8862-F75231475243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
